@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/smswh_team4/static/css/main.c3e89790.chunk.css",
+    "main.js": "/smswh_team4/static/js/main.08704318.chunk.js",
+    "main.js.map": "/smswh_team4/static/js/main.08704318.chunk.js.map",
+    "runtime-main.js": "/smswh_team4/static/js/runtime-main.add44bd9.js",
+    "runtime-main.js.map": "/smswh_team4/static/js/runtime-main.add44bd9.js.map",
+    "static/js/2.0df48425.chunk.js": "/smswh_team4/static/js/2.0df48425.chunk.js",
+    "static/js/2.0df48425.chunk.js.map": "/smswh_team4/static/js/2.0df48425.chunk.js.map",
+    "index.html": "/smswh_team4/index.html",
+    "static/css/main.c3e89790.chunk.css.map": "/smswh_team4/static/css/main.c3e89790.chunk.css.map",
+    "static/js/2.0df48425.chunk.js.LICENSE.txt": "/smswh_team4/static/js/2.0df48425.chunk.js.LICENSE.txt",
+    "static/media/mysome1.a487348f.PNG": "/smswh_team4/static/media/mysome1.a487348f.PNG",
+    "static/media/pic1.png": "/smswh_team4/static/media/pic1.8d49e377.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.add44bd9.js",
+    "static/js/2.0df48425.chunk.js",
+    "static/css/main.c3e89790.chunk.css",
+    "static/js/main.08704318.chunk.js"
+  ]
+}
